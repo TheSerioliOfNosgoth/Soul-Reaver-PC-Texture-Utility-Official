@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SoulReaverPCTextureUtility">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\blincoln\My Documents\Visual Studio 2005\Projects\SoulReaverPCTextureUtility\SoulReaverPCTextureUtility.sln">
+</Property><Property Name="Date" Value="Thursday, July 06, 2006">
+</Property><Property Name="Time" Value="18:53 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SoulReaverPCTextureUtility" Source="SoulReaverPCTextureUtility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SoulReaverPCTextureUtility" Source="SoulReaverPCTextureUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SoulReaverPCTextureUtility.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SoulReaverPCTextureUtility.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SoulReaverPCTextureUtility" Source="SoulReaverPCTextureUtility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

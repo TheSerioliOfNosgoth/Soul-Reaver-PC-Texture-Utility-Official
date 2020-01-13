@@ -1,0 +1,6 @@
+C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Release\SoulReaverPCTextureUtility.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\bin\Release\SoulReaverPCTextureUtility.exe
+C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Release\SoulReaverPCTextureUtility.frmMain.resources
+C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Release\SoulReaverPCTextureUtility.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Release\SoulReaverPCTextureUtility.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Release\SoulReaverPCTextureUtility.exe
