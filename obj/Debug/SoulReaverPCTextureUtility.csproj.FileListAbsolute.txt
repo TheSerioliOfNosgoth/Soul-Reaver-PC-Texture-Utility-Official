@@ -5,3 +5,12 @@ C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Debug\SoulReaverPCTe
 C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Debug\SoulReaverPCTextureUtility.csproj.CoreCompileInputs.cache
 C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Debug\SoulReaverPCTextureUtility.exe
 C:\Users\Andrew\source\repos\SoulReaverPCTextureUtility\obj\Debug\SoulReaverPCTextureUtility.pdb
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\obj\Debug\SoulReaverPCTextureUtility.pdb
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\bin\Debug\SoulReaverPCTextureUtility.exe.config
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\bin\Debug\SoulReaverPCTextureUtility.exe
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\bin\Debug\SoulReaverPCTextureUtility.pdb
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\obj\Debug\SoulReaverPCTextureUtility.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\obj\Debug\SoulReaverPCTextureUtility.frmMain.resources
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\obj\Debug\SoulReaverPCTextureUtility.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\obj\Debug\SoulReaverPCTextureUtility.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\Soul-Reaver-PC-Texture-Utility-Official\obj\Debug\SoulReaverPCTextureUtility.exe
